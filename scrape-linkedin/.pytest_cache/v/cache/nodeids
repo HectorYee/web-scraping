@@ -1,0 +1,11 @@
+[
+  "test.py::TestUtils::test_clean",
+  "test.py::TestUtils::test_extract_one",
+  "test.py::TestLinkedinItem::test_current_industry",
+  "test.py::TestLinkedinItem::test_current_title",
+  "test.py::TestLinkedinItem::test_first_name",
+  "test.py::TestLinkedinItem::test_last_name",
+  "test.py::TestLinkedinItem::test_name",
+  "test.py::TestLinkedinItem::test_to_dict",
+  "test.py::TestLinkedinItem::test_url_detected"
+]
